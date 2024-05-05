@@ -1,2 +1,9 @@
-# workshop-web-creadev
-js template dedicated to responsive creative websites
+# command
+Install
+```
+npm i
+```
+Lauch
+```
+npm run dev
+```
