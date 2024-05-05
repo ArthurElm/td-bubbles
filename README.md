@@ -10,7 +10,7 @@ npm run dev
 
 # Lien du projet 
 
-[text](https://td-bubbles.vercel.app/)
+[td-bubbles](https://td-bubbles.vercel.app/)
 
 # Projet réalisé par
 
